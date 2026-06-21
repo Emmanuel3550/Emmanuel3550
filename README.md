@@ -1,16 +1,25 @@
-## Hi there 👋
+## ¡Hola! 👋
+ 
+💻 **Ingeniero de Datos e IA**  
+📚 **Estudiante**  
+🚀 **En constante aprendizaje**
+ 
+---
+ 
+### 🎯 Sobre mí
+ 
+Apasionado por los datos y la inteligencia artificial. Actualmente explorando nuevas tecnologías y construyendo soluciones interesantes.
+ 
+---
+ 
+### 💡 Lo que hago
+ 
+- 📊 Análisis y visualización de datos
+- 💾 Trabajo con bases de datos
+- 🔧 Desarrollo de soluciones tecnológicas
+---
+ 
+### 📖 Siempre aprendiendo
 
-<!--
-**Emmanuel3550/Emmanuel3550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Bienvenido a mi repositorio! 🎉
+ 
