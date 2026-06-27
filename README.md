@@ -24,7 +24,6 @@ Apasionado por los datos y la inteligencia artificial. Actualmente explorando nu
 ¡Bienvenido a mi repositorio! 🎉
 
 ### :zap: Actividad reciente
-<!--Start_Section:Activity-->
-
-<!--END_SECTION:Activity-->
+<!--RECENT_ACTIVITY:start--> 
+<!--RECENT_ACTIVITY:last_update--> 
  
