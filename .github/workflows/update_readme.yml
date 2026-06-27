@@ -1,4 +1,4 @@
-name: update Readme2
+name: update Readme
 
 on:
   # Se ejecuta todos los días a las 08:00 UTC
