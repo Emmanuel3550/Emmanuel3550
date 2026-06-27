@@ -1,9 +1,0 @@
-readme_file: README.md
-
-max_lines: 5
-
-commit_message: "Update README with recent activity"
-
-disabled_events:
-  - WatchEvent
-  - ForkEvent
